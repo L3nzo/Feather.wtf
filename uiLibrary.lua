@@ -2,7 +2,7 @@ warn("fucking nigger cunt")
 
 local framework = loadstring(game:HttpGet("https://raw.githubusercontent.com/mainstreamed/clones/refs/heads/main/synapse/framework.lua", true))();
 --
-do -- checks
+-- do here but idgf prob gon ban u nga -- checks
     do -- folders
         if (not isfolder("ENHANCEMENTS")) then
             makefolder("ENHANCEMENTS");
